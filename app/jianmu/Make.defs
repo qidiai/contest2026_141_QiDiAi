@@ -1,0 +1,7 @@
+############################################################################
+# Contest 2026 team 141 - QiDiAi 建木 on-device semantic index - Make.defs
+############################################################################
+
+ifneq ($(CONFIG_LVX_USE_DEMO_CONTEST2026_141_JIANMU),)
+CONFIGURED_APPS += $(APPDIR)/packages/demos/contest2026_141_jianmu
+endif

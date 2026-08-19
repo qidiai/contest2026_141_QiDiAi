@@ -1,0 +1,11 @@
+#
+# For a description of the syntax of this configuration file,
+# see the file kconfig-language.txt in the NuttX tools repository.
+#
+
+config LVX_USE_DEMO_CONTEST2026_141_JIANMU
+	bool "Contest 2026 team 141 - QiDiAi 建木 on-device semantic index"
+	default n
+	---help---
+		Enable the QiDiAi 建木 offline semantic search demo
+		(embed -> local vector index -> cosine search, fully on-device).

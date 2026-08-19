@@ -1,0 +1,176 @@
+# Gen Make.dep automatically
+jianmu_main.c.home.xcm.openvela.contest2026_141_QiDiAi.app.jianmu.o: \
+ jianmu_main.c /usr/include/stdc-predef.h \
+ /home/xcm/openvela/nuttx/include/stdio.h \
+ /home/xcm/openvela/nuttx/include/nuttx/config.h \
+ /home/xcm/openvela/nuttx/include/sys/types.h \
+ /home/xcm/openvela/nuttx/include/nuttx/compiler.h \
+ /home/xcm/openvela/nuttx/include/stdint.h \
+ /home/xcm/openvela/nuttx/include/arch/types.h \
+ /home/xcm/openvela/nuttx/include/arch/inttypes.h \
+ /home/xcm/openvela/nuttx/include/limits.h \
+ /home/xcm/openvela/nuttx/include/arch/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+ /home/xcm/openvela/nuttx/include/time.h \
+ /home/xcm/openvela/nuttx/include/nuttx/fs/fs.h \
+ /home/xcm/openvela/nuttx/include/nuttx/fs/ioctl.h \
+ /home/xcm/openvela/nuttx/include/stdbool.h \
+ /home/xcm/openvela/nuttx/include/nuttx/serial/tioctl.h \
+ /home/xcm/openvela/nuttx/include/nuttx/fs/uio.h \
+ /home/xcm/openvela/nuttx/include/sys/uio.h \
+ /home/xcm/openvela/nuttx/include/dirent.h \
+ /home/xcm/openvela/nuttx/include/nuttx/mm/map.h \
+ /home/xcm/openvela/nuttx/include/nuttx/queue.h \
+ /home/xcm/openvela/nuttx/include/nuttx/mutex_type.h \
+ /home/xcm/openvela/nuttx/include/nuttx/semaphore_type.h \
+ /home/xcm/openvela/nuttx/include/errno.h \
+ /home/xcm/openvela/nuttx/include/semaphore.h \
+ /home/xcm/openvela/nuttx/include/nuttx/mm/gran.h \
+ /home/xcm/openvela/nuttx/include/nuttx/spawn.h \
+ /home/xcm/openvela/nuttx/include/spawn.h \
+ /home/xcm/openvela/nuttx/include/sched.h \
+ /home/xcm/openvela/nuttx/include/strings.h \
+ /home/xcm/openvela/nuttx/include/string.h \
+ /home/xcm/openvela/nuttx/include/stddef.h \
+ /home/xcm/openvela/nuttx/include/alloca.h \
+ /home/xcm/openvela/nuttx/include/signal.h \
+ /home/xcm/openvela/nuttx/include/nuttx/irq.h \
+ /home/xcm/openvela/nuttx/include/arch/irq.h \
+ /home/xcm/openvela/nuttx/include/nuttx/percpu.h \
+ /home/xcm/openvela/nuttx/include/arch/setjmp.h \
+ /home/xcm/openvela/nuttx/include/nuttx/spinlock_type.h \
+ /home/xcm/openvela/nuttx/include/nuttx/atomic.h \
+ /home/xcm/openvela/nuttx/include/nuttx/lib/lib.h \
+ /home/xcm/openvela/nuttx/include/stdlib.h /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+ /usr/include/features.h /usr/include/features-time64.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/bits/timesize.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/long-double.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/time64.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/floatn.h \
+ /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+ /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
+ /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
+ /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h v10.h semantic_index.h
+v10_api.c.home.xcm.openvela.contest2026_141_QiDiAi.app.jianmu.o: \
+ v10_api.c /usr/include/stdc-predef.h \
+ /home/xcm/openvela/nuttx/include/string.h \
+ /home/xcm/openvela/nuttx/include/nuttx/config.h \
+ /home/xcm/openvela/nuttx/include/nuttx/compiler.h \
+ /home/xcm/openvela/nuttx/include/stddef.h \
+ /home/xcm/openvela/nuttx/include/sys/types.h \
+ /home/xcm/openvela/nuttx/include/stdint.h \
+ /home/xcm/openvela/nuttx/include/arch/types.h \
+ /home/xcm/openvela/nuttx/include/arch/inttypes.h \
+ /home/xcm/openvela/nuttx/include/limits.h \
+ /home/xcm/openvela/nuttx/include/arch/limits.h \
+ /home/xcm/openvela/nuttx/include/alloca.h
+v10_infer.c.home.xcm.openvela.contest2026_141_QiDiAi.app.jianmu.o: \
+ v10_infer.c /usr/include/stdc-predef.h \
+ /home/xcm/openvela/nuttx/include/stdio.h \
+ /home/xcm/openvela/nuttx/include/nuttx/config.h \
+ /home/xcm/openvela/nuttx/include/sys/types.h \
+ /home/xcm/openvela/nuttx/include/nuttx/compiler.h \
+ /home/xcm/openvela/nuttx/include/stdint.h \
+ /home/xcm/openvela/nuttx/include/arch/types.h \
+ /home/xcm/openvela/nuttx/include/arch/inttypes.h \
+ /home/xcm/openvela/nuttx/include/limits.h \
+ /home/xcm/openvela/nuttx/include/arch/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+ /home/xcm/openvela/nuttx/include/time.h \
+ /home/xcm/openvela/nuttx/include/nuttx/fs/fs.h \
+ /home/xcm/openvela/nuttx/include/nuttx/fs/ioctl.h \
+ /home/xcm/openvela/nuttx/include/stdbool.h \
+ /home/xcm/openvela/nuttx/include/nuttx/serial/tioctl.h \
+ /home/xcm/openvela/nuttx/include/nuttx/fs/uio.h \
+ /home/xcm/openvela/nuttx/include/sys/uio.h \
+ /home/xcm/openvela/nuttx/include/dirent.h \
+ /home/xcm/openvela/nuttx/include/nuttx/mm/map.h \
+ /home/xcm/openvela/nuttx/include/nuttx/queue.h \
+ /home/xcm/openvela/nuttx/include/nuttx/mutex_type.h \
+ /home/xcm/openvela/nuttx/include/nuttx/semaphore_type.h \
+ /home/xcm/openvela/nuttx/include/errno.h \
+ /home/xcm/openvela/nuttx/include/semaphore.h \
+ /home/xcm/openvela/nuttx/include/nuttx/mm/gran.h \
+ /home/xcm/openvela/nuttx/include/nuttx/spawn.h \
+ /home/xcm/openvela/nuttx/include/spawn.h \
+ /home/xcm/openvela/nuttx/include/sched.h \
+ /home/xcm/openvela/nuttx/include/strings.h \
+ /home/xcm/openvela/nuttx/include/string.h \
+ /home/xcm/openvela/nuttx/include/stddef.h \
+ /home/xcm/openvela/nuttx/include/alloca.h \
+ /home/xcm/openvela/nuttx/include/signal.h \
+ /home/xcm/openvela/nuttx/include/nuttx/irq.h \
+ /home/xcm/openvela/nuttx/include/arch/irq.h \
+ /home/xcm/openvela/nuttx/include/nuttx/percpu.h \
+ /home/xcm/openvela/nuttx/include/arch/setjmp.h \
+ /home/xcm/openvela/nuttx/include/nuttx/spinlock_type.h \
+ /home/xcm/openvela/nuttx/include/nuttx/atomic.h \
+ /home/xcm/openvela/nuttx/include/nuttx/lib/lib.h \
+ /home/xcm/openvela/nuttx/include/stdlib.h /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+ /usr/include/features.h /usr/include/features-time64.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/bits/timesize.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/long-double.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/time64.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/floatn.h \
+ /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+ /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
+ /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
+ /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h v10_token_map.h
+semantic_index.c.home.xcm.openvela.contest2026_141_QiDiAi.app.jianmu.o: \
+ semantic_index.c /usr/include/stdc-predef.h semantic_index.h v10.h \
+ /home/xcm/openvela/nuttx/include/stddef.h \
+ /home/xcm/openvela/nuttx/include/sys/types.h \
+ /home/xcm/openvela/nuttx/include/nuttx/config.h \
+ /home/xcm/openvela/nuttx/include/nuttx/compiler.h \
+ /home/xcm/openvela/nuttx/include/stdint.h \
+ /home/xcm/openvela/nuttx/include/arch/types.h \
+ /home/xcm/openvela/nuttx/include/arch/inttypes.h \
+ /home/xcm/openvela/nuttx/include/limits.h \
+ /home/xcm/openvela/nuttx/include/arch/limits.h \
+ /home/xcm/openvela/nuttx/include/string.h \
+ /home/xcm/openvela/nuttx/include/alloca.h \
+ /home/xcm/openvela/nuttx/include/stdlib.h /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+ /usr/include/features.h /usr/include/features-time64.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/bits/timesize.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/long-double.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/time64.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/floatn.h \
+ /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+ /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
+ /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
+ /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h
+# No files specified for dependency generation
+# No files specified for dependency generation
